@@ -1,0 +1,1 @@
+docker run -d --name rabbitmq --network roboshop RABBITMQ_DEFAULT_USER=roboshop RABBITMQ_DEFAULT_PASS=roboshop123rabbitmq:3-management
